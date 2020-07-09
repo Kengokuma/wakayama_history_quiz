@@ -1,0 +1,62 @@
+body{
+    background-color: #f9f9f9;
+    z-index: 0;
+}
+.header{
+    position: absolute;
+    background-color:rgb(255, 136, 0);
+    height: 70px;
+    width: 100%;
+    left: 0;
+    top :0;
+    z-index: 1;
+
+}
+#logo{
+    color:white;
+    font-size:25px;
+    padding-left: 60px;
+    font-family: "monaco";
+    z-index: 2;
+}
+#nanmonme{
+    position: absolute;    
+    margin: 100px 30px;
+    z-index: 3;
+    font-family: 'Courier New', Courier, monospace
+}
+#mondai{
+    position: absolute;
+    z-index: 3;
+    margin: 150px 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+
+#answerform{
+    padding-top: 350px;
+    padding-left: 30px;
+}
+
+#answer{
+    width: 180px;
+    height: 21px;
+    font-size: 15px;
+}
+
+.okbtn{
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    background-color: rgb(255, 136, 0);
+    color: white;
+    border: none;
+    font-size: 13px;
+}
+#score{
+    padding-top: 150px;
+    position: absolute;
+    font-size: 70px;
+    padding-left: 30px;
+}
