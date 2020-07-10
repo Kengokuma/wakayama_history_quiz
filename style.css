@@ -15,27 +15,27 @@ body{
 #logo{
     color:white;
     font-size:25px;
-    padding-left: 60px;
+    padding-left: 100px;
     font-family: "monaco";
     z-index: 2;
 }
 #nanmonme{
     position: absolute;    
-    margin: 100px 30px;
+    margin: 100px 100px;
     z-index: 3;
     font-family: 'Courier New', Courier, monospace
 }
 #mondai{
     position: absolute;
     z-index: 3;
-    margin: 150px 30px;
+    margin: 150px 100px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 17px;
 }
 
 #answerform{
     padding-top: 350px;
-    padding-left: 30px;
+    padding-left: 100px;
 }
 
 #answer{
