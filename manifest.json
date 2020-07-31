@@ -1,13 +1,13 @@
 {
     "name": "和歌山歴史クイズ",
     "short_name": "和歌山歴史クイズ",
-    "display": "fullscreen",
-    "start_url": "index.html",
     "icons": [
         {
             "src": "icon_pwa.png",
             "sizes": "192x192",
             "type": "image/png"
         }
-    ]
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen"
 }
