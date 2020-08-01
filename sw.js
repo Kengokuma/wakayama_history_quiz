@@ -5,7 +5,7 @@ const CACHE_NAME = `${registration.scope}!${CACHE_VERSION}`;
 const urlsToCache = [
     '.',
     'style.css',
-    'icon.png',
+    'icon192.png',
     'script.js'
 ];
 

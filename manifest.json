@@ -3,11 +3,11 @@
     "short_name": "和歌山歴史クイズ",
     "icons": [
         {
-            "src": "icon.png",
-            "sizes": "1002x987",
+            "src": "icon192.png",
+            "sizes": "192x192",
             "type": "image/png"
         }
     ],
     "start_url": "index.html",
-    "display": "fullscreen"
+    "display": "standalone"
 }
